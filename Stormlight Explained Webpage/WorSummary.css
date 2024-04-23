@@ -1,0 +1,224 @@
+html{
+	background-image: url(Images/wordsofradiance.jpg);
+}
+td{
+	font-family:Georiga;
+	line-height:30px;
+	padding-right:30px;
+	
+}
+.container{
+	text-align:center;
+	width:1100px;
+	height:auto;
+	margin:auto;
+	font-family:verdana;
+	background-color:#111320;
+	}
+nav{
+	height:400px
+	border-width:1px;
+	width:1000px;
+	background-color:#c5c9e2;
+	}
+h1{
+	font-family:"verdana";
+	color:#282a35;
+	font-size:35px;
+	font-weight:none;
+	}
+	
+h3{
+	text-align:left;
+	padding-left:35px;
+	padding-right:35px;
+	font-family:Helvetica;
+}
+header{
+	height:200px;
+	background-color:#282a35;
+	border-bottom-style:solid;
+	border-bottom-color:black;
+	padding-bottom:20px;
+	color:#ececec;
+	font-size:25px;
+	
+	
+}
+a:link{
+	font-size:16px;
+	text-decoration:none;
+	font-family:Verdana;
+	color:links;
+	text-align:center;
+	
+}
+
+#logo{
+	border-style:none;
+	filter:invert(100%);
+	width:100px;
+	height:auto;
+}
+
+#logo1{
+	padding-bottom:10px;
+	border-style:none;
+	filter:invert(100%);
+	width:auto;
+	height:100px;
+	margin:0px;
+}
+
+a:hover{
+	text-decoration:none;
+	font-family:Verdana;
+	color:#282a35;
+	
+}
+
+.links{
+	
+	height:30px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.content{
+	background-color:#e8eaf6;
+	width:1000px;
+	height:auto;
+	margin-left:50px;
+	margin-right:auto;
+}
+#stories{
+	font-weight:bold;
+	font-stretch:ultra-expanded;
+	font-size:45px;
+	
+}
+li{
+	display:inline;
+	padding:25px;
+	font-weight:bold;
+}
+a{
+	color:black;
+}
+img{
+	border-style:solid;
+	border-width:2px;
+	height:400px;
+	float:none;/* causes the title cover to appear above the paragraph instead of to the left*/
+	margin:20px 20px 0px;
+}
+#images{
+	padding:10px;
+}
+footer{
+	height:115px;
+	width:1098px;
+	background-color:#282a35;
+	border-top-style:solid;
+	border-top-color:black;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#foot{
+	text-align:center;
+	font-weight:bold;
+	color:#ffffff;
+	font-size:20px;
+	text-align:center;
+}
+.review{
+	font-size:18px;
+	font-weight:none;
+	margin:20px;
+	text-align:left;
+	width:850px;
+}
+hr{
+	height:4px;
+	background-color:#c5c9e2;
+	border:none;
+}
+.characters{
+	width:840px;
+	margin:auto;
+	font-size:18px;
+	font-weight:none;
+	margin:20px;
+	text-align:left;
+	width:850px;
+}
+#Cpics{
+	height:300px;
+	width:auto;
+}
+#name{
+	font-weight:bold;
+	text-align:center;
+}
+.plot p{
+	color:#152140;
+}
+table p{
+	color:#152140;
+	text-align:left;
+	font-size:18px;
+}
+#vid{
+	margin-left:135px;
+	margin-top:30px;
+	width:560px;
+	height:315px;
+}
+#table-header{
+	text-align:left;
+}
+.big{
+	font-family:Georgia;
+	padding-right:100px;
+	padding-left:20px;
+	line-height:30px;
+}
+#shrink{
+	width:200px;
+}
+#footer-table{
+		padding-right:400px;
+		
+}
+#footer-table a:link{
+		color:white;
+		
+}
+#footer-table a:hover{
+		color:yellow;
+		
+}
+#dead-link a:link{
+	color:red;
+	
+}
+#dead-link a:hover{
+	color:red;
+	
+}
+p{
+	text-align:left;
+	font-family:Georgia;
+	line-height:30px;
+}
+.overview{
+	padding-left:90px;
+	padding-right:90px;
+	
+}
+#inline{
+	width:150px;
+	height:auto;
+	float:left;
+}
